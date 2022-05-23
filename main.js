@@ -34,8 +34,8 @@ console.log(keyPressed);
 
 	if(keyPressed == '82') // add appropriate keycode
 	{
-		block_x=100
 		// upload red ranger
+		block_x=100;
 		new_image('rr1.png');
 		console.log('r');
 	}
